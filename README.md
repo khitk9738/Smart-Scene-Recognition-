@@ -16,6 +16,8 @@ Scene recognition is one of the hallmark tasks of computer vision, allowing defi
 ![alt tag](https://i.imgur.com/vLhDqhCh.png)
 
 ## Reference
+Download the models from [here](https://drive.google.com/open?id=1LBveNdo9WyGfBfgt3djlGHvjiUvjwx1x)
+
 Please cite the following [IEEE Transaction on Pattern Analysis and Machine Intelligence paper](http://places2.csail.mit.edu/PAMI_places.pdf) if you use the data or pre-trained CNN models.
 ```
  @article{zhou2017places,
